@@ -8,7 +8,9 @@ This is an example form to register for a conference. It checks to make sure use
 jQuery was used in this project.
 
 ## Running the Project
-Open the *__index.html__* file in a web browser.
+1. Clone the project files.
+2. Open the *__index.html__* file in a web browser.
+
 
 
 
