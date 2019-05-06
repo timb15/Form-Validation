@@ -24,7 +24,6 @@ header {
 
 h1 {
 	font-size: 2.5em;
-	text-shadow: 0 2px 0 rgba(243, 255, 5, 1);
 	margin: 0;
 }
 
@@ -38,7 +37,6 @@ a {
 
 form {
 	padding: .875em 1.875em 1.875em;
-	background: #00c7f6;
 }
 
 fieldset,
